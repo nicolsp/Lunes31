@@ -13,6 +13,7 @@ fun main() {
 
     //Ejercicio 3
 
-    val Name: String = "Ark Reigen"
+     val Name: String = "Ark Reigen"
+      var  
 
 }
